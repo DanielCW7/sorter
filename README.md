@@ -1,3 +1,8 @@
+# Sorting visualizer
+
+This application was designed to display the performance levels of a bubble sort on different sizes of data, given only a 1ms delay. This site is responsive, and was built with Reactjs. When the app first starts, there will be no bars because there no radio button has been selected.
+To display a dataset, you must first make a selection and then press the "reset" button. Only then, will the data be revealed and be ready to sort. The "sort" button executes the bubble sort, and must be allowed to finish before either randomizing or selecting a new dataset. If a sort is in progress, it must be allowed to finish, or else nothing will happen.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
